@@ -2,6 +2,12 @@ body {
     font-family: roboto, sans-serif;
 }
 
+.contato{
+    background-color:hotpink ;
+}
+
+
+
 .navbar {
     background-color: hotpink;
 }
@@ -23,6 +29,10 @@ body {
 }
 .navbar-toggler {
     background-color: rgba(231, 22, 127, 0.735);
+}
+
+.rede{
+    color: #fff;
 }
 
 .section-title {
